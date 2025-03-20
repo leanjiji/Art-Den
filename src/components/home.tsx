@@ -11,7 +11,7 @@ const Home = () => {
         <div className="p-4 flex-1 text-center">Contact</div>
       </div>
       <img
-        src="src\assets\images\asdasd.png"
+        src="/images/asdasd.png"
         className="bg-repeat w-full overflow-x-hidden"
         alt="background"
       ></img>
